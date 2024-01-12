@@ -1,0 +1,212 @@
+{
+  "user1": {
+    "username": "user1",
+    "password": "12",
+    "logged": true,
+    "score": 2.0,
+    "stats": {
+      "matches": 3,
+      "victories": 2,
+      "win_rate": 66.66667,
+      "current_win_streak": 2,
+      "max_win_streak": 2,
+      "attempts_to_win": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 2
+    }
+  },
+  "user2": {
+    "username": "user2",
+    "password": "12",
+    "logged": false,
+    "score": 3.0,
+    "stats": {
+      "matches": 3,
+      "victories": 3,
+      "win_rate": 100.0,
+      "current_win_streak": 3,
+      "max_win_streak": 3,
+      "attempts_to_win": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 3
+    }
+  },
+  "raoul": {
+    "username": "raoul",
+    "password": "12",
+    "logged": true,
+    "score": 5.3333335,
+    "stats": {
+      "matches": 12,
+      "victories": 8,
+      "win_rate": 66.66667,
+      "current_win_streak": 0,
+      "max_win_streak": 8,
+      "attempts_to_win": [
+        4,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        50.0,
+        50.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 12
+    }
+  },
+  "user3": {
+    "username": "user3",
+    "password": "12",
+    "logged": true,
+    "score": 4.0,
+    "stats": {
+      "matches": 4,
+      "victories": 4,
+      "win_rate": 100.0,
+      "current_win_streak": 4,
+      "max_win_streak": 4,
+      "attempts_to_win": [
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 4
+    }
+  },
+  "user4": {
+    "username": "user4",
+    "password": "12",
+    "logged": true,
+    "score": 1.0,
+    "stats": {
+      "matches": 1,
+      "victories": 1,
+      "win_rate": 100.0,
+      "current_win_streak": 1,
+      "max_win_streak": 1,
+      "attempts_to_win": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "guess_distribution": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "attempts": 1
+    }
+  }
+}

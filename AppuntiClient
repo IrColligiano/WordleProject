@@ -1,0 +1,105 @@
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+WELLCOME IN WORDLE
+IF YOU OWN AN ACCOUNT, WRITE 'login'
+ELSE, WRITE 'registration'
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+>login
+DIGIT YOUR OWN USERNAME
+>raoul
+DIGIT YOUR OWN PASSWORD
+>12
+LOGIN SUCCESSFULLY
+REGISTERING FOR CALLBACK
+JOINED TO MULTICAST GROUP
+CONNECTED TO THE SERVER
+
+HELLO raoul
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+THESE ARE THE COMMANDS TO INTERACT WITH WORDLE
+TO PLAY: 'play'
+TO LOGOUT: 'logout'
+TO VIEW THE STATISTICS: 'statistics'
+TO VIEW THE CLASSIFICATION: 'classification'
+TO SHARE THE SUGGESTIONS: 'share'
+TO VIEW THE SUGGESTIONS YOU HAVE RECEIVED: 'sharing
+TO EXIT: 'exit'
+DO YOU NEED HELP? 'help'
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+>play
+MATCH STARTED
+TO SUBMIT A WORD, DIGIT: 'submit' + 'word'
+>submit abjuratory
+SUGGESTIONS: [?][F][F][F][?][?][?][?][T][T]
+BEEEEEEEP! WRONG WORD
+TO SUBMIT A WORD, WRITE: submit + 'word'
+
+>share
+>sharing
+raoul
+1/12: [F][F][F][F][F][?][?][?][F][?]
+2/12: [F][F][F][F][F][?][?][?][F][?]
+3/12: [F][F][F][T][F][F][?][?][F][?]
+
+>statistics
+match : 10
+win rate : 80.0
+current winning streak : 0
+max winning streak : 8
+distribution of attempt to win the game :
++1 attempt : 50.0
++2 attempt : 50.0
++3 attempt : 0.0
++4 attempt : 0.0
++5 attempt : 0.0
++6 attempt : 0.0
++7 attempt : 0.0
++8 attempt : 0.0
++9 attempt : 0.0
++10 attempt : 0.0
++11 attempt : 0.0
++12 attempt : 0.0
+
+>classification
+1°:
+username: raoul
+score: 5.3333335
+statistics:
+match : 10
+win rate : 80.0
+current winning streak : 0
+max winning streak : 8
+distribution of attempt to win the game :
++1 attempt : 50.0
++2 attempt : 50.0
++3 attempt : 0.0
++4 attempt : 0.0
++5 attempt : 0.0
++6 attempt : 0.0
++7 attempt : 0.0
++8 attempt : 0.0
++9 attempt : 0.0
++10 attempt : 0.0
++11 attempt : 0.0
++12 attempt : 0.0
+
+>help
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+THESE ARE THE COMMANDS TO INTERACT WITH WORDLE
+TO PLAY: 'play'
+TO LOGOUT: 'logout'
+TO VIEW THE STATISTICS: 'statistics'
+TO VIEW THE CLASSIFICATION: 'classification'
+TO SHARE THE SUGGESTIONS: 'share'
+TO VIEW THE SUGGESTIONS YOU HAVE RECEIVED: 'sharing'
+TO EXIT: 'exit'
+DO YOU NEED HELP? 'help'
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+
+>logout
+LOGOUT SUCCESSFUL
+
+>exit
+Process finished with exit code 0
+
+UPDATE EVENT: PODIUM HAS CHANGED
+[raoul, user3, user2]

@@ -1,0 +1,71 @@
+GAME CREATED, NEW WORDLE'S WORD = depository ITALIAN TRASLATION : depositario
+READY
+
+USER LOGGED : raoul
+NEW CLIENT REGISTERED
+ACCEPTED CONNECTION FROM java.nio.channels.SocketChannel[connected local=/127.0.0.1:1039 remote=/127.0.0.1:54260]
+
+raoul HAS STARTED A MATCH
+MESSAGE: raoul|play|ok
+SENT TO: /127.0.0.1:54260
+
+MESSAGE: raoul|guess|tryagain|[?][F][F][F][?][?][?][?][T][T]
+SENT TO: /127.0.0.1:54260
+
+MESSAGE: raoul|share|ok
+SENT TO: /127.0.0.1:54260
+SENT ON MULTICAST SOCKET:
+raoul
+1/12: [F][F][F][F][F][?][?][?][F][?]
+2/12: [F][F][F][F][F][?][?][?][F][?]
+3/12: [F][F][F][T][F][F][?][?][F][?]
+
+MESSAGE:
+match : 10
+win rate : 80.0
+current winning streak : 0
+max winning streak : 8
+distribution of attempt to win the game :
++1 attempt : 50.0
++2 attempt : 50.0
++3 attempt : 0.0
++4 attempt : 0.0
++5 attempt : 0.0
++6 attempt : 0.0
++7 attempt : 0.0
++8 attempt : 0.0
++9 attempt : 0.0
++10 attempt : 0.0
++11 attempt : 0.0
++12 attempt : 0.0
+SENT TO: /127.0.0.1:58105
+SERILIZZATION IN PROGRESS
+SERIALIZATION COMPLETED SUCCESSFULLY
+
+MESSAGE LENGHT 1512SENT TO: /127.0.0.1:61564
+MESSAGE: 1°:
+username: raoul
+score: 5.3333335
+statistics:
+match : 10
+win rate : 80.0
+current winning streak : 0
+max winning streak : 8
+distribution of attempt to win the game :
++1 attempt : 50.0
++2 attempt : 50.0
++3 attempt : 0.0
++4 attempt : 0.0
++5 attempt : 0.0
++6 attempt : 0.0
++7 attempt : 0.0
++8 attempt : 0.0
++9 attempt : 0.0
++10 attempt : 0.0
++11 attempt : 0.0
++12 attempt : 0.0
+
+USER: UNLOGGED raoul
+MESSAGE: raoul|logout|ok
+SENT TO: /127.0.0.1:62321
+
